@@ -1,0 +1,19 @@
+{
+  "name": "reacthomework",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Ammar <ammar@ammaronline.net>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {}
+}
